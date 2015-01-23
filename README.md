@@ -5,6 +5,9 @@
 1. [vagrant](http://vagrantup.com)
 1. [virtualbox](http://virtualbox.com)
 
+This has been tested with a Linux host. Theoretically, it should work in
+Windows. Please let me know!
+
 ## Usage
 
 1. clone this repo
