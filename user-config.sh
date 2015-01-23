@@ -4,3 +4,4 @@
 git clone https://github.com/moquist/dotfiles.pub
 mv ~/dotfiles.pub ~/.dotfiles.pub
 bash ~/.dotfiles.pub/bin.pub/dotfiles.pub-set-up
+rsync -av /vagrant/desktop-contents/ ~vagrant/Desktop/
